@@ -1,0 +1,19 @@
+{
+  "name": "prime",
+  "version": "1.0.0",
+  "description": "Simple prime number and prime factorization package",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Richard Scheiwe",
+    "url": "http://richardscheiwe.com"
+  },
+
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
