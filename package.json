@@ -4,10 +4,18 @@
   "description": "Simple prime number and prime factorization package",
   "homepage": "https://github.com/rscheiwe/npm-prime",
   "main": "index.js",
+  "directories": {
+    "test": "./test"
+  },
   "scripts": {
     "test": "mocha"
   },
-  "keywords": [],
+  "keywords": [
+    "prime",
+    "factorization",
+    "numbers",
+    "primality"
+  ],
   "author": {
     "name": "Richard Scheiwe",
     "url": "http://richardscheiwe.com"
