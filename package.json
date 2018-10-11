@@ -1,6 +1,6 @@
 {
   "name": "primes-simple",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple prime number and prime factorization package",
   "homepage": "https://github.com/rscheiwe/npm-prime",
   "main": "index.js",

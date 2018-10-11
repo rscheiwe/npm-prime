@@ -1,6 +1,6 @@
 # npm-primes-simple: Node.js Package for Prime Factorization
 
-[![npm package](https://nodei.co/npm/primes-simple.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/timsort-node)
+[![npm package](https://nodei.co/npm/primes-simple.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/primes-simple)
 
 [![npm version](https://badge.fury.io/js/primes-simple.svg)](https://badge.fury.io/js/primes-simple)
 
