@@ -3,4 +3,4 @@ const getRandomInt = require('./Random.js')
 
 const random = getRandomInt(1000,10000)
 
-console.log(prime(random))
+console.log(prime(12))
